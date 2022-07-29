@@ -1,7 +1,7 @@
-# FEET-IN
+# 👡FEET-IN
 신발 쇼핑몰 구축 프로젝트입니다.
 
-[FEET IN PPT.pptx](https://github.com/jooyeongS2/FEET-IN/files/9216977/FEET.IN.PPT.pptx)
+#### [FEET IN PPT.pptx](https://github.com/jooyeongS2/FEET-IN/files/9216977/FEET.IN.PPT.pptx)
 위 링크를 누르시면, 제가 한 역할과 저희 쇼핑몰의 주요 기능을 보실 수 있습니다.
 
 ## 기술 스택
